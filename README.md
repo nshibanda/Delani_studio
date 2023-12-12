@@ -2,7 +2,7 @@
 
 ## Author
 
-[Benjamin Kimutai]( https://github.com/nshibanda)
+[Noel Sakase]( https://github.com/nshibanda)
 
 ## Description
 
